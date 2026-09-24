@@ -1,0 +1,26 @@
+{
+  "application": "Hand Breakers",
+  "package": "com.kejing.spatialarcade.brick",
+  "versionName": "0.16",
+  "versionCode": 16,
+  "tag": "v0.16.0",
+  "buildType": "release",
+  "debuggable": false,
+  "tests": {
+    "tests": 75,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "apk": "Hand-Breakers-v0.16.0-arm64.apk",
+  "bytes": 43372012,
+  "sha256": "831f73110d7563a22bd821882977cfdb814ec8af3e235dfaa99f51fac1faab01",
+  "signing": "Dedicated local release key; certificate in signature.txt. No private key is published.",
+  "assets": [
+    "assets/dexopt/baseline.prof",
+    "assets/dexopt/baseline.profm",
+    "assets/D-breakout-max.glb",
+    "assets/brick.wav"
+  ],
+  "nativeReleaseAcceptance": "Pending; existing screenshots are accepted native development baseline evidence."
+}

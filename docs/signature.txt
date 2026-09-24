@@ -1,0 +1,18 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v3.2 scheme (APK Signature Scheme v3.2): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+V2 Signer: certificate DN: CN=Hand Breakers Release
+V2 Signer: certificate SHA-256 digest: 8c8839b97de66251983c9a7dbb4deac939a7108bd2c3c7a844c89dfdb0123539
+V2 Signer: certificate SHA-1 digest: fd2e194b5757188f35c49373f2609517b064aaef
+V2 Signer: certificate MD5 digest: 9b0c86251a9dc5dc893a474c9c818143
+V2 Signer: key algorithm: RSA
+V2 Signer: key size (bits): 3072
+V2 Signer: public key SHA-256 digest: 999a235ef2309eaff1d8a6d62d49f74d1f8f14c8f025d1ffbdc2445d1e8ec232
+V2 Signer: public key SHA-1 digest: 9a7b29f204098d25701aaf960aa1e78c39fa4097
+V2 Signer: public key MD5 digest: d0f677064cd086c2ffbd996707f4e504
